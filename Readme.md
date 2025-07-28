@@ -2,6 +2,7 @@
 
 * Студент: [Сергей Гончаров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2664311).
 * Наставник: [Макс Черненков](https://htmlacademy.ru/profile/dreamoctober).
+* Сайт: [Мой сайт] (https://tomyviselnik.github.io/2664311-sedona-2/)
 
 ---
 
