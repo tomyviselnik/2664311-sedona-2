@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Гончаров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2664311).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Черненков](https://htmlacademy.ru/profile/dreamoctober).
 
 ---
 
